@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushch80
-- 👀 I’m interested in WEB DEVELOPMENT and ARTIFITIAL INTELLIGENCE
-- 🌱 I’m currently learning PYTHON
+- 👀 I’m interested in WEB DEVELOPMENT , ARTIFITIAL INTELLIGENCE and SOFTWARE AND GAME DEVELOPMENT.
+- 🌱 I’m currently learning C# .
 - 📫 How to reach me --> ayushch80@gmail.com
 
 <!---
