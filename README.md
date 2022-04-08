@@ -42,4 +42,6 @@ Other works I Do -
 
   💰 Dogecoin - DP1aNzAcNvTBwnZt4y9NmmSdsxdpJuYqcX
 
+  💰 Monero - 
+43zQu4XPvJ2brvEsCGKxjS7boyFXHUC6WXoqryYcSXdXToUaPPWrXWb7vUFQShb9Fs99YS7NJhazhX8KfPiSmJRXRZ7wjj3
   💰 For any other crypto donations MAIL me.
