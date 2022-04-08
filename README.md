@@ -65,3 +65,7 @@ Other works I Do -
 43zQu4XPvJ2brvEsCGKxjS7boyFXHUC6WXoqryYcSXdXToUaPPWrXWb7vUFQShb9Fs99YS7NJhazhX8KfPiSmJRXRZ7wjj3
   
   💰 For any other crypto donations MAIL me.
+
+
+
+![ADS](https://captiveimpossibleimport.com/c9a23f070226a7e8bf2384e679ea5bb5/invoke.js)
