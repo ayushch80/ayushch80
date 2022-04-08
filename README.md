@@ -1,4 +1,7 @@
- Hey there 🙋 I'm $ ayushch80 .    
+![Profile Views](https://komarev.com/ghpvc/?username=ayushch80)
+ 
+
+Hey there 🙋 I'm $ ayushch80 .    
  I'm most probably perfect in HTML and Linux.    
  Intermediate in PYTHON, PHP and MySQL.    
  Noob in CSS , JS , NODEJS.    
@@ -8,6 +11,7 @@
  Currently Studying in High School.
 
 ![ayushch80's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushch80&count_private=true)
+
 
 
  
