@@ -11,7 +11,7 @@ Hey there 🙋 I'm $ ayushch80 .
  Currently Studying in High School.
 
 ![ayushch80's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushch80&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushch80)](https://git.io/streak-stats)
 
 
  
