@@ -7,6 +7,8 @@
 
  Currently Studying in High School.
 
+![ayushch80's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushch80&count_private=true)
+
 
  
 Other works I Do -
