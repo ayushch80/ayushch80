@@ -1,5 +1,5 @@
  Hey there 🙋 I'm $ ayushch80 .    
- I'm most probably according to me perfect in HTML and Linux.    
+ I'm most probably perfect in HTML and Linux.    
  Intermediate in PYTHON, PHP and MySQL.    
  Noob in CSS , JS , NODEJS.    
  Bot in Remaining.    
