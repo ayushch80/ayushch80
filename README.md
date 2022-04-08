@@ -1,5 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushch80)
- 
+
+
+![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=black)
+![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Litecoin Badge](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
+
 
 Hey there 🙋 I'm $ ayushch80 .    
  I'm most probably perfect in HTML and Linux.    
