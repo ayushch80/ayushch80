@@ -68,4 +68,4 @@ Other works I Do -
 
 
 
-![ADS](https://captiveimpossibleimport.com/c9a23f070226a7e8bf2384e679ea5bb5/invoke.js)
+![ADS]
