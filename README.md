@@ -66,6 +66,3 @@ Other works I Do -
   
   💰 For any other crypto donations MAIL me.
 
-
-
-![WEBSITE](https://crypto.ayushch80.me)
