@@ -64,5 +64,5 @@ Other works I Do -
   💰 Monero - 
 43zQu4XPvJ2brvEsCGKxjS7boyFXHUC6WXoqryYcSXdXToUaPPWrXWb7vUFQShb9Fs99YS7NJhazhX8KfPiSmJRXRZ7wjj3
   
-  💰 For any other crypto donations MAIL me.
+  💰 For any other crypto donations MAIL me `ayushch80@gmail.com`
 
