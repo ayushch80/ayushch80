@@ -12,7 +12,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
-![GIF](http://ayushch80.me/20220424180753354.gif)
+![GIF](http://ayushch80.me/result.gif)
 
 Hey there 🙋 I'm $ ayushch80 .    
  I'm most probably perfect in HTML and Linux.    
