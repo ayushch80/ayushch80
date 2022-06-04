@@ -24,7 +24,7 @@ Hey there 🙋 I'm $ ayushch80 .
  Currently Studying in High School.
 
 ![ayushch80's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushch80&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushch80)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushch80&theme=ads-juicy-fresh&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0030DD)](https://git.io/streak-stats)
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushch80)
 
  
