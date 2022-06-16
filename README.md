@@ -15,8 +15,6 @@
 [![Pokémon fonts](https://see.fontimg.com/api/renderfont4/xyWR/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/aXQncyAg/pokemon-solid-normal.png)](https://www.fontspace.com/category/pokemon)
 [![Anime fonts](https://see.fontimg.com/api/renderfont4/VMGx/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/YXl1c2hjaDgw/gbshinto-regular.png)](https://www.fontspace.com/category/anime)
 
-<b> Currently Studying in High School.</b>
-
 ![ayushch80's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushch80&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushch80&theme=ads-juicy-fresh&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0030DD)](https://git.io/streak-stats)
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushch80)
