@@ -11,17 +11,11 @@
 ![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+ 
+[![Pokémon fonts](https://see.fontimg.com/api/renderfont4/xyWR/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/aXQncyAg/pokemon-solid-normal.png)](https://www.fontspace.com/category/pokemon)
+[![Anime fonts](https://see.fontimg.com/api/renderfont4/VMGx/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/YXl1c2hjaDgw/gbshinto-regular.png)](https://www.fontspace.com/category/anime)
 
-![GIF](http://ayushch80.me/result.gif)
-
-Hey there 🙋 I'm $ ayushch80 .    
- I'm most probably perfect in HTML and Linux.    
- Intermediate in PYTHON, PHP and MySQL.    
- Noob in CSS , JS , NODEJS.    
- Bot in Remaining.    
-
-
- Currently Studying in High School.
+<b> Currently Studying in High School.</b>
 
 ![ayushch80's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushch80&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushch80&theme=ads-juicy-fresh&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0030DD)](https://git.io/streak-stats)
@@ -40,7 +34,7 @@ Other works I Do -
  Can Speak -   
  ★ English     
  ★ Hindi     
- ★ French (Noob)   
+ ★ French (N👀b)   
 
 
  Nationality - INDIAN 🇮🇳
