@@ -1,6 +1,39 @@
+# ayushch80
+```
+                         ___
+                     .-'`     `'.
+              __    /  .-. .-.   \
+           .'`__`'.| /  ()|  ()\  \
+          / /`   `\\ |_ .-.-. _|  ;  __
+          ||     .-'`  (/`|`\) `-./'`__`'.
+          \ \. .'                 `.`  `\ \     ░█████╗░██╗░░░██╗██╗░░░██╗░██████╗██╗░░██╗░█████╗░██╗░░██╗░█████╗░░█████╗░
+           `-./  _______            \    ||     ██╔══██╗╚██╗░██╔╝██║░░░██║██╔════╝██║░░██║██╔══██╗██║░░██║██╔══██╗██╔══██╗
+              | |\      ''''---.__   |_./ /     ███████║░╚████╔╝░██║░░░██║╚█████╗░███████║██║░░╚═╝███████║╚█████╔╝██║░░██║
+              ' \ `'---..________/|  /.-'`      ██╔══██║░░╚██╔╝░░██║░░░██║░╚═══██╗██╔══██║██║░░██╗██╔══██║██╔══██╗██║░░██║
+               `.`._            _/  /           ██║░░██║░░░██║░░░╚██████╔╝██████╔╝██║░░██║╚█████╔╝██║░░██║╚█████╔╝╚█████╔╝
+                 `-._'-._____.-' _.`            ╚═╝░░╚═╝░░░╚═╝░░░░╚═════╝░╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝░╚════╝░░╚════╝░
+                  _,-''.__...--'`
+              _.-'_.    ,-. _ `'-._
+           .-' ,-' /   /   \\`'-._ `'.
+         <`  ,'   /   /     \\    / /
+          `.  \  ;   ;       ;'  / /_
+    __   (`\`. \ |   |       ||.' // )
+ .'`_ `\(`'.`.\_\|   |    o  |/_,'/.' )
+/ .' `; |`-._ ` /;    \     / \   _.-'
+| |  (_/  (_..-' _\    `'--' | `-.._)
+; \        _.'_.' / /'.___.; \
+ \ '-.__.-'_.'   ; '        \ \
+  `-.,__.-'      | ;         ; '
+                 | |         | |
+                 | |         / /
+               .-' '.      ,' `-._
+             /`    _ `.   /  _    `.
+            '-/ / / `\_) (_/` \  .`,)
+             | || |            | | |
+             `-'\_'            (_/-'
+```
+## stats
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushch80)
-
-
 ![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=black)
 ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Litecoin Badge](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
@@ -11,50 +44,10 @@
 ![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
- 
-[![it's](https://see.fontimg.com/api/renderfont4/xyWR/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/aXQncyAg/pokemon-solid-normal.png)](https://www.fontspace.com/category/pokemon)
-[![ayushch80](https://see.fontimg.com/api/renderfont4/VMGx/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/YXl1c2hjaDgw/gbshinto-regular.png)](https://www.fontspace.com/category/anime)
 
 ![ayushch80's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushch80&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushch80&theme=ads-juicy-fresh&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0030DD)](https://git.io/streak-stats)
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushch80)
 
- 
-Other works I Do -
-
-⚔️ Crypto Trading.   
-⚔️ Learning Server_Side_Languages.   
-⚔️ Play Minecraft.  
-⚔️ Making ERC-20 Smart Contracts.  
-
-
-
- Can Speak -   
- ★ English     
- ★ Hindi     
- ★ French (N👀b)   
-
-
- Nationality - [![Hindi fonts](https://see.fontimg.com/api/renderfont4/Gg5D/eyJyIjoiZnMiLCJoIjoyOCwidyI6MTI1MCwiZnMiOjIyLCJmZ2MiOiIjRTA4RjI5IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SU5ESUFOIA/samarkan-normal.png)](https://www.fontspace.com/category/hindi) 🇮🇳
-
-
- Donate --
-
-  
-  💰 Bitcoin - bc1ql8ks3m5f5947c24tr6jvjlejqr3s52x2kcva47
-
-  💰 Ethereum - 0xD0b2d6D92F71cb1F72C61BAcDef64f33e4f1eeBb
-
-  💰 Binance - bnb1xnvhrh5ud5whemclf2knjc20kyeg75t8khw5nu
-
-  💰 Bitcoin Cash - qqxd6lgnwa99n07nka50asrt7s7vcgfuyulhtm2key
-
-  💰 Litecoin - ltc1q9yhzzapj45uxgz39r59q09wsee03yt9hvlrfqp
-
-  💰 Dogecoin - DP1aNzAcNvTBwnZt4y9NmmSdsxdpJuYqcX
-
-  💰 Monero - 
-43zQu4XPvJ2brvEsCGKxjS7boyFXHUC6WXoqryYcSXdXToUaPPWrXWb7vUFQShb9Fs99YS7NJhazhX8KfPiSmJRXRZ7wjj3
-  
-  💰 For any other crypto donations MAIL me [`ayushch80@gmail.com`](mail:ayushch80@gmail.com)
-
+## mail
+ayushch80@gmail.com
