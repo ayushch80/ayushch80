@@ -32,7 +32,7 @@
              | || |            | | |
              `-'\_'            (_/-'
 ```
-## stats
+## profile
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushch80)
 ![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=black)
 ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
@@ -51,3 +51,6 @@
 
 ## mail
 ayushch80@gmail.com
+
+## cool stuff
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushch80" alt="ayushch80" /></a> </p>
