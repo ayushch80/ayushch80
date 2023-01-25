@@ -54,3 +54,8 @@ ayushch80@gmail.com
 
 ## cool stuff
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushch80" alt="ayushch80" /></a> </p>
+
+
+## discord server
+[![Discord](https://discordapp.com/api/guilds/1067309547888320532/widget.png?style=banner2)](https://discord.gg/invitecode)
+
