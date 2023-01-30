@@ -57,5 +57,5 @@ ayushch80@gmail.com
 
 
 ## discord server
-[![Discord](https://discordapp.com/api/guilds/1067309547888320532/widget.png?style=banner2)](https://discord.gg/invitecode)
+[![Discord](https://discordapp.com/api/guilds/1067309547888320532/widget.png?style=banner2)](https://discord.gg/PuGpFxDJhn)
 
