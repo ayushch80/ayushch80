@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, there! I am Ayush, a developer that enjoys breaking and building things. Whether it's creating web apps, participating in CTFs, dabbling with OS development, or delving into low-level programming, I'm always up for new challenges.<br><br>💻 **Tech I Dive Into**: Web Dev, CTFs, Cybersecurity, Low-Level Programming, OS Development<br>🔨 **Current Projects**: Building my own UNIX-like OS, a Markdown parser, a Next.js hosting tool, and more...<br>⚡ **Fun Fact**: I like making my own encryption algorithms and tweaking Linux setups!
+Hey, there! I am Ayush, a developer that enjoys breaking and building things. Whether it's creating web apps, participating in CTFs, dabbling with OS development, or delving into low-level programming, I'm always up for new challenges.<br><br>💻 **Tech I Dive Into**: Web Dev, CTFs, Cybersecurity, Low-Level Programming, OS Development<br>🔨 **Current Projects**: Building my own UNIX-like OS, a Markdown parser, a Next.js hosting tool, and more...<br>⚡ **Fun Fact**: I like making my own encryption algorithms and tweaking Linux setups!!
 
 
 ## 🌐 Socials:
